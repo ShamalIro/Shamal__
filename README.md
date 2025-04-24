@@ -2,6 +2,6 @@
 - 👀 I’m interested in Full-Stack Development, Cloud Computing, and Data Science  
 - 🌱 I’m currently learning React, Java, Spring Boot, REST API, and Cloud Fundamentals  
 - 💞️ I’m looking to collaborate on web development projects, open-source contributions, and cloud-based applications  
-- 📫 How to reach me: shamaliro.dev@gmail.com | [LinkedIn](https://www.linkedin.com/in/shamal-iroshan-754bb8317)  
+- 📫 How to reach me:shamaliroshan@gmail.com| [LinkedIn](https://www.linkedin.com/in/shamal-iroshan-754bb8317)  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I’m the founder of Creative Pulse Technology and currently pursuing my BSc (Hons) in Software Engineering at SLIIT 🚀  
