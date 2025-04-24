@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @ShamalIro
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-ShamalIro/ShamalIro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @ShamalIroshan  
+- 👀 I’m interested in Full-Stack Development, Cloud Computing, and Data Science  
+- 🌱 I’m currently learning React, Java, Spring Boot, REST API, and Cloud Fundamentals  
+- 💞️ I’m looking to collaborate on web development projects, open-source contributions, and cloud-based applications  
+- 📫 How to reach me: shamaliro.dev@gmail.com | [LinkedIn](https://www.linkedin.com/in/shamal-iro)  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I’m the founder of Creative Pulse Technology and currently pursuing my BSc (Hons) in Software Engineering at SLIIT 🚀  
